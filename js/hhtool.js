@@ -88,7 +88,8 @@
 
     function createIOSLink(domain) {
       //  if(getSuperSign()) return getSuperSign();
-        return 'itms-services:///?action=download-manifest&url=https://ossformysoft.oss-accelerate.aliyuncs.com/manifest_v1.plist'
+        //   return 'itms-services:///?action=download-manifest&url=https://ossformysoft.oss-accelerate.aliyuncs.com/manifest_v1.plist'
+        return 'https://shanqian.vip/BDILP8'
     }
 
     function createAndroidLink(domain) {
